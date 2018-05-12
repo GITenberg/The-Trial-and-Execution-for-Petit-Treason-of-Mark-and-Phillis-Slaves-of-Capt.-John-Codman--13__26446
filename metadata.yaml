@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32012'
     url: http://www.gutenberg.org/2009/agents/32012
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26446#The-Trial-and-Execution-for-Petit-Treason-of-Mark-and-Phillis-Slaves-of-Capt.-John-Codman--13_
 gutenberg_issued: '2008-08-28'
 gutenberg_type: Text
 identifiers:
